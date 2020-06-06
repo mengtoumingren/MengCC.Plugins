@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfPluginDownloadConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+   <PluginDownloadConfig>
+    <Name>Command</Name>
+	<Version>0.3.4</Version>
+    <Description>适用于 window x86/x64</Description>
+	<Platform>win86</Platform>
+    <RemoteUrl>https://gitee.com/mengtree/MengCC.Plugin.Command.git</RemoteUrl>
+  </PluginDownloadConfig>
+  <PluginDownloadConfig>
+    <Name>GitWithPassword</Name>
+	<Version>0.1</Version>
+    <Description>test</Description>
+	<Platform>win86</Platform>
+    <RemoteUrl>https://gitee.com/mengtree/MengCC.Plugin.GitWithPassword.git</RemoteUrl>
+  </PluginDownloadConfig>
+  <PluginDownloadConfig>
+    <Name>SVN</Name>
+	<Version>0.2</Version>
+    <Description>get SVN with crawler</Description>
+	<Platform>win86</Platform>
+    <RemoteUrl>https://gitee.com/mengtree/MengCC.Plugin.SVN.git</RemoteUrl>
+  </PluginDownloadConfig>
+  <PluginDownloadConfig>
+    <Name>Move</Name>
+	<Version>0.2</Version>
+    <Description>Move files</Description>
+	<Platform>win86</Platform>
+    <RemoteUrl>https://gitee.com/mengtree/MengCC.Plugin.Move.git</RemoteUrl>
+  </PluginDownloadConfig>
+</ArrayOfPluginDownloadConfig>
